@@ -24,13 +24,8 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
-<<<<<<< HEAD
-*.egg
-MANIFEST
-=======
 # .DS_Store
 .DS_Store
->>>>>>> d66580482decc7391d77821ed1c4322a004286b6
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -132,8 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
-=======
 
->>>>>>> d66580482decc7391d77821ed1c4322a004286b6
 
